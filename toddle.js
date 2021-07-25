@@ -35,7 +35,7 @@ function js()
         
         d.appendChild(box);
         d.appendChild(input);
-        d.style.color="green";
+        d.style.color="blue";
         var line=document.createElement('hr');
         line.style.width="800px"
         col2.appendChild(d);
@@ -66,7 +66,7 @@ function js()
         arrowLeft.onclick=function()
         {
             console.log("Left Click")
-            input.style.color="green";
+            input.style.color="blue";
             d.style.marginLeft="70px";
         }
         arrows.onclick=function()
