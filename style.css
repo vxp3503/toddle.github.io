@@ -6,6 +6,8 @@ input{
     width: 800px;
     margin-left: 20px;
     border-color: transparent;
-    color: green;
+    color: blue;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     outline-color: white ;
 }
